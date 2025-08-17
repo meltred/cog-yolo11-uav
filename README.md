@@ -1,6 +1,8 @@
 > [!NOTE]
 > This is [COG](https://cog.run) wrapper for [Droneforge's YOLOv11 UAV Finetune model](https://github.com/droneforge/yolov11n-UAV-finetune), intended to be deployed on [replicate.com](https://replicate.com)
 
+Deployed URL: https://replicate.com/meltred/yolov11n-uav-finetune
+
 # YOLOV11N-UAV FINETUNE
 
 **OPEN SOURCE. SMALL MODEL. UAV DETECTION.**
