@@ -1,7 +1,11 @@
 > [!NOTE]
-> This is [COG](https://cog.run) wrapper for [Droneforge's YOLOv11 UAV Finetune model](https://github.com/droneforge/yolov11n-UAV-finetune), intended to be deployed on [replicate.com](https://replicate.com)
+> This is [COG](https://cog.run) + [Gradio](gradio) wrapper for [Droneforge's YOLOv11 UAV Finetune model](https://github.com/droneforge/yolov11n-UAV-finetune), intended to be deployed on [Replicate.com](https://replicate.com) and [Hugging Face Spaces](https://huggingface.co/spaces)
 
-Deployed URL: https://replicate.com/meltred/yolov11n-uav-finetune
+Deployed on **Replicate**: https://replicate.com/meltred/yolov11n-uav-finetune
+
+Deployed on **Hugging**: https://replicate.com/meltred/yolov11n-uav-finetune
+
+---
 
 # YOLOV11N-UAV FINETUNE
 
