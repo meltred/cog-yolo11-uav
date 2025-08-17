@@ -3,7 +3,7 @@
 
 Deployed on **Replicate**: https://replicate.com/meltred/yolov11n-uav-finetune
 
-Deployed on **Hugging**: https://replicate.com/meltred/yolov11n-uav-finetune
+Deployed on **Hugging**: https://huggingface.co/spaces/kunalsin9h/yolov11-uav-finetune
 
 ---
 
